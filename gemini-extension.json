@@ -1,0 +1,14 @@
+{
+  "name": "trak",
+  "version": "1.0.0",
+  "description": "Job management for trades: jobs, schedules, quotes, invoices, timesheets and files in your Trak account via OAuth.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "trak": {
+      "httpUrl": "https://mcp.trak.co/mcp",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}
